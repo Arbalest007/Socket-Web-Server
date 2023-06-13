@@ -34,6 +34,7 @@ while True:
         connectionSocket.close()
     except IOError:
         connectionSocket.send("HTTP/1.1 404 NOT FOUND\r\n\r\n".encode())
+        connectionSocket.send("404 Not Found".encode())
         connectionSocket.close()
 
     serverSocket.close()
