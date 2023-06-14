@@ -7,6 +7,7 @@ HOST_IP = gethostbyname(gethostname())
 PORT = 1024
 
 print("Server IP is: " + HOST_IP)
+print("Port number is: " + str(PORT))
 
 serverSocket.bind((HOST_IP, PORT))
 serverSocket.listen()
