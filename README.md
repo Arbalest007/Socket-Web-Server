@@ -1,4 +1,4 @@
-**PUT NAMES AND EMAILS**
+**PUT NAMES AND EMAILS HERE**
 # Socket-Web-Server
 
 ## Server
