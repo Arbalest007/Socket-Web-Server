@@ -11,4 +11,4 @@ In the web browser, type the IP address and PORT number with a colon separating 
 
 You should receive this on your browser
 
-<img src="https://github.com/Arbalest007/Socket-Web-Server/assets/47013008/929f22c3-fbd9-472f-b1c2-cfee678c6064" width="100" height="100">
+<img src="https://github.com/Arbalest007/Socket-Web-Server/assets/47013008/929f22c3-fbd9-472f-b1c2-cfee678c6064" width="400" height="400">
