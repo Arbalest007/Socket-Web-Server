@@ -1,4 +1,9 @@
-**PUT NAMES AND EMAILS HERE**
+Placeholder
+
+Placeholder
+
+Loc Nguyen lnguy121@csu.fullerton.edu
+
 # Socket-Web-Server
 
 ## Server
