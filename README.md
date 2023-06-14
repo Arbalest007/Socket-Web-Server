@@ -6,6 +6,7 @@ Navigate to the folder with the programs.
 
 Run the command 
 >python3 server.py
+
 to start the server.
 
 The terminal will tell you your IP address and a PORT number.
