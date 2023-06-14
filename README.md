@@ -1,10 +1,12 @@
 PUT NAMES AND EMAILS
 # Socket-Web-Server
 
-### Server
+## Server
 Navigate to the folder with the programs.
 
-Run the command "python3 server.py" (without quotes) to start the server.
+Run the command 
+>python3 server.py
+to start the server.
 
 The terminal will tell you your IP address and a PORT number.
 
@@ -20,7 +22,7 @@ You will get this if you type the filename wrong
 <img src="https://github.com/Arbalest007/Socket-Web-Server/assets/47013008/ebc142b5-cbff-451b-8ee9-58aa21d9820c" width="500" height="400">
 
 
-### Client
+## Client
 To test the client
 
 Start the server with "python3 server.py"
