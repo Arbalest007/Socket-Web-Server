@@ -11,4 +11,4 @@ In the web browser, type the IP address and PORT number with a colon separating 
 
 You should receive this on your browser
 
-![success](https://github.com/Arbalest007/Socket-Web-Server/assets/47013008/74ba7d5d-38bb-4934-bed3-02625bcb5d58)
+![Smaller](https://github.com/Arbalest007/Socket-Web-Server/assets/47013008/26aea3bc-9e3e-48fb-b7d6-e0421eb35774)
