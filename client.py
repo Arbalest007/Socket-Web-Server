@@ -15,8 +15,9 @@ PORT = int(sys.argv[2])
 clientSocket.connect((HOST_IP, PORT))
 clientSocket.send(("Get /" + sys.argv[3] + " HTTP/1.1").encode())
 
-response = clientSocket.recv(1024)
-print(response[:19])
+response = str(clientSocket.recv(1024))
+response.split('<')[0]
+print(response)
 
 while True:
     data = clientSocket.recv(1024).decode()
