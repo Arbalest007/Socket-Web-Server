@@ -4,13 +4,14 @@ PUT NAMES AND EMAILS
 ## Server
 Navigate to the folder with the programs.
 
-Run the command to start the server.
+Start the server with
 >python3 server.py
 
 
 The terminal will tell you your IP address and a PORT number.
 
 In the web browser, type the IP address and PORT number with a colon separating them and the html filename that is included.
+
 (10.10.10:1024/HelloWorld.html)
 
 You should receive this on your browser
@@ -25,9 +26,12 @@ You will get this if you type the filename wrong
 ## Client
 To test the client
 
-Start the server with "python3 server.py"
+Start the server with
+>python3 server.py
 
-Open another terminal window and type "python3 client.py IP PORT FILENAME"
+Open another terminal window and run
+>python3 client.py IP PORT FILENAME
+
 (python3 client.py 10.10.10 1024 HelloWorld.html)
 
 You will receive the server response in the terminal
