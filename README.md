@@ -1,6 +1,6 @@
 Placeholder
 
-Placeholder
+Patrick Lin pjlin@csu.fullerton.edu
 
 Loc Nguyen lnguy121@csu.fullerton.edu
 
