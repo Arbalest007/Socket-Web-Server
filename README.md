@@ -4,6 +4,8 @@ Patrick Lin pjlin@csu.fullerton.edu
 
 Loc Nguyen lnguy121@csu.fullerton.edu
 
+Saad Ansari  saad.ansari@csu.fullerton.com
+
 # Socket-Web-Server
 
 ## Server
